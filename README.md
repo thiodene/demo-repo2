@@ -3,3 +3,7 @@
 This is a REPO that has been created on Disk and is about to be clone to GITHUB using: 
 git init
 
+# HTML part
+
+We will construct HTML features
+
